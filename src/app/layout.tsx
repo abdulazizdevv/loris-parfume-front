@@ -67,7 +67,7 @@ export default function RootLayout({
             <Image
               src='https://mc.yandex.ru/watch/98371026'
               style={{ position: 'absolute', left: '-9999px' }}
-              alt='yandex'
+              alt='yandex_'
             />
           </div>
         </noscript>
